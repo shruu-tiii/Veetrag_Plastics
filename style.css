@@ -37,7 +37,7 @@ nav a{
 
 .hero{
     height:90vh;
-    background:url('VP_Logo.jpg') center/cover;
+    background:url('VP_Logo.jpeg') center/cover;
     display:flex;
     justify-content:center;
     align-items:center;
