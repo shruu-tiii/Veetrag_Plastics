@@ -13,7 +13,7 @@ body{
 }
 
 header{
-    background:#d62828;
+    background:#FF4500;
     color:white;
     padding:15px 50px;
 }
@@ -34,10 +34,19 @@ nav a{
     color:white;
     text-decoration:none;
 }
+.brand{
+    display:flex;
+    align-items:center;
+    gap:10px;
+}
 
+.logo{
+    height:60px;
+    width:auto;
+}
 .hero{
     height:90vh;
-    background:url('VP_Logo.jpeg') center/cover;
+    background:url('BG_Homepage.jpg') center/cover;
     display:flex;
     justify-content:center;
     align-items:center;
@@ -70,7 +79,7 @@ nav a{
 }
 
 .btn{
-     background:#d62828;
+     background:#FF4500;
     color:white;
     padding:12px 25px;
     text-decoration:none;
@@ -121,7 +130,7 @@ h2{
 }
 
 footer{
-    background:#d62828;
+    background:#FF4500;
     color:white;
     text-align:center;
     padding:20px;
